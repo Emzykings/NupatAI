@@ -335,10 +335,7 @@ This project is licensed under the Nupat Technologies.
 **Nupat Technologies**  
 Building the future of African AI
 
-- Website: [Your website]
-- Email: [Your email]
-- GitHub: [Your GitHub]
-
+- Website: [\[Nupat\]](https://nupat.africa/)
 ---
 
 ## 🌟 Acknowledgments
